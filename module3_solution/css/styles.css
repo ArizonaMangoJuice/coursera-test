@@ -1,0 +1,27 @@
+body {
+    height: 1000px;
+}
+
+#mobile-background {
+    background: #c1c4c9;
+}
+
+#mobile-background li {
+    border-bottom: 1px solid #fff;
+}
+
+.margin-bottom {
+    margin-bottom: 15px;
+}
+
+#chicken {
+    background: #c1c4c9;
+}
+
+#beef {
+    background: #c1c4c9;
+}
+
+#sushi {
+    background: #c1c4c9;
+}
